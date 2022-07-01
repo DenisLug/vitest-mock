@@ -1,0 +1,83 @@
+// Vitest Snapshot v1
+
+exports[`should match snapshot 1`] = `
+<div
+  data-v-app=""
+>
+  
+  <h1
+    data-v-469af010=""
+  >
+    Passed Prop Message
+  </h1>
+  <p
+    data-v-469af010=""
+  >
+     Recommended IDE setup: 
+    <a
+      data-v-469af010=""
+      href="https://code.visualstudio.com/"
+      target="_blank"
+    >
+      VS Code
+    </a>
+     + 
+    <a
+      data-v-469af010=""
+      href="https://github.com/johnsoncodehk/volar"
+      target="_blank"
+    >
+      Volar
+    </a>
+  </p>
+  <p
+    data-v-469af010=""
+  >
+    See 
+    <code
+      data-v-469af010=""
+    >
+      README.md
+    </code>
+     for more information.
+  </p>
+  <p
+    data-v-469af010=""
+  >
+    <a
+      data-v-469af010=""
+      href="https://vitejs.dev/guide/features.html"
+      target="_blank"
+    >
+       Vite Docs 
+    </a>
+     | 
+    <a
+      data-v-469af010=""
+      href="https://v3.vuejs.org/"
+      target="_blank"
+    >
+      Vue 3 Docs
+    </a>
+  </p>
+  <button
+    data-v-469af010=""
+    type="button"
+  >
+    count is: 0
+  </button>
+  <p
+    data-v-469af010=""
+  >
+     Edit 
+    <code
+      data-v-469af010=""
+    >
+      components/HelloWorld.vue
+    </code>
+     to test hot module replacement. 
+  </p>
+   I am mocked
+  
+</div>
+`;
